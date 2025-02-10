@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-10T17:12:01 IST" name="BrowserStackSuite" finished-at="2025-02-10T17:12:23 IST" duration-ms="21300">
+    <groups>
+    </groups>
+    <test started-at="2025-02-10T17:12:01 IST" name="BrowserStackDemo-2" finished-at="2025-02-10T17:12:13 IST" duration-ms="11843">
+      <class name="bs.grid.tests.BSTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.grid.tests.BSTest@17ae7628]" started-at="2025-02-10T17:12:01 IST" name="setUp" finished-at="2025-02-10T17:12:08 IST" duration-ms="6992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTest()[pri:0, instance:bs.grid.tests.BSTest@17ae7628]" started-at="2025-02-10T17:12:08 IST" name="googleTest" finished-at="2025-02-10T17:12:10 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.grid.tests.BSTest@17ae7628]" started-at="2025-02-10T17:12:11 IST" name="tearDown" finished-at="2025-02-10T17:12:13 IST" duration-ms="2514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.grid.tests.BSTest -->
+    </test> <!-- BrowserStackDemo-2 -->
+    <test started-at="2025-02-10T17:12:01 IST" name="BrowserStackDemo-0" finished-at="2025-02-10T17:12:15 IST" duration-ms="13942">
+      <class name="bs.grid.tests.BSTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.grid.tests.BSTest@5491f68b]" started-at="2025-02-10T17:12:01 IST" name="setUp" finished-at="2025-02-10T17:12:08 IST" duration-ms="6703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTest()[pri:0, instance:bs.grid.tests.BSTest@5491f68b]" started-at="2025-02-10T17:12:08 IST" name="googleTest" finished-at="2025-02-10T17:12:13 IST" duration-ms="4747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.grid.tests.BSTest@5491f68b]" started-at="2025-02-10T17:12:13 IST" name="tearDown" finished-at="2025-02-10T17:12:15 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.grid.tests.BSTest -->
+    </test> <!-- BrowserStackDemo-0 -->
+    <test started-at="2025-02-10T17:12:01 IST" name="BrowserStackDemo-1" finished-at="2025-02-10T17:12:23 IST" duration-ms="21299">
+      <class name="bs.grid.tests.BSTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bs.grid.tests.BSTest@7b44b63d]" started-at="2025-02-10T17:12:01 IST" name="setUp" finished-at="2025-02-10T17:12:14 IST" duration-ms="13203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTest()[pri:0, instance:bs.grid.tests.BSTest@7b44b63d]" started-at="2025-02-10T17:12:14 IST" name="googleTest" finished-at="2025-02-10T17:12:20 IST" duration-ms="5459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bs.grid.tests.BSTest@7b44b63d]" started-at="2025-02-10T17:12:20 IST" name="tearDown" finished-at="2025-02-10T17:12:23 IST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bs.grid.tests.BSTest -->
+    </test> <!-- BrowserStackDemo-1 -->
+  </suite> <!-- BrowserStackSuite -->
+</testng-results>

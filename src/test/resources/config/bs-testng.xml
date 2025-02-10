@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BrowserStackSuite">
+   <test name="BrowserStackDemo">
+		<classes>
+			<class name="bs.grid.tests.BSTest" />
+		</classes>
+   </test> 
+ </suite>
