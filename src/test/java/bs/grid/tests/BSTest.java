@@ -21,6 +21,7 @@ public class BSTest extends BSBaseTest {
 			if(item.getText().equals("selenium tutorial java"))
 			{
 				item.click();
+				System.out.println("Found");
 				break;
 			}						
 		}
